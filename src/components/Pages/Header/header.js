@@ -92,7 +92,7 @@ const Header = () => {
 
       <aside id="sidebar" className="sidebar d-flex flex-column sticky-top">
         <NavLink to="/" className="logo d-flex align-items-center mb-4">
-          <h2 className="sitename">User Management</h2>
+          <h3 className="sitename"> Role-Based Access </h3>
         </NavLink>
 
         <nav id="navmenu" className="navmenu flex-grow-1">
