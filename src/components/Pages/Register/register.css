@@ -1,0 +1,14 @@
+.text-danger {
+    color: red;
+    font-size: 0.875rem; /* Adjust size as needed */
+  }
+  .section.register {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding-top: 2px;
+  }
+  
